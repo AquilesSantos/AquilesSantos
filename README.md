@@ -18,7 +18,7 @@
   
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/aquiles-silva-dos-santos-/" target="_black">
+  <a href="https://www.linkedin.com/in/aquiles-silva-dos-santos-/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkC13MHFDlshhneUoFeRGC31Q0hM-q7GUgQ&usqp=CAU" width="40">
   </a> 
 </div>

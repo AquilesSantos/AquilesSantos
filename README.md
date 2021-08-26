@@ -10,8 +10,8 @@
   <br>
 
   <p>🚀 Desenvolvedor Web Front-end com experiência profissional em Angular e React Native.</p>
-  <p>👨‍🎓 Conhecimentos em ReactJS, VueJS e C#.</p>
-  <p>📚 Estudante de Análise e Desenvilvimento de Sistemas.</p>
+  <p>👨‍🎓 Conhecimentos em ReactJS, VueJS.</p>
+  <p>📚 Estudante de Análise e Desenvilvimento de Sistemas e .NET/C#.</p>
   
 
   <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">

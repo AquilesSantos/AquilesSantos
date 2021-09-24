@@ -11,7 +11,7 @@
 
   <p>👨🏻‍💻 Desenvolvedor Front-end web/mobile.</p>
   <p>🚀 Experiência profissional em desenvolvimento de aplicações com Angular e React Native.</p>
-  <p>👨‍🎓 Conhecimentos em ReactJS e VueJS.</p>
+  <p>👨‍🎓 Conhecimentos em ReactJS e React Native</p>
   <p>📚 Estudante de Análise e Desenvolvimento de Sistemas, VueJs e .NET/C#.</p>
   
 
